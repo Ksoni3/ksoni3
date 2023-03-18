@@ -10,9 +10,13 @@ I'm a Junior Front-End Developer/Software Engineer based in Sydney. I have a pas
 
 * HTML
 * CSS
+* Tailwind
 * JavaScript
 * React
-* Node.js
+* NodeJs
+* ExpressJs
+* MySQL
+* MongoDB
 * Git
 
 # Contact Me
