@@ -1,7 +1,7 @@
 
 
 ## Hi there, I'm Kamal !!✌
-I'm a junior front-end developer/software engineer based in Sydney. I have a passion for building beautiful, intuitive websites and applications that provide a seamless user experience. I have experience with HTML, CSS, JavaScript, React, and Node.js, and I'm always eager to learn new technologies and expand my skillset.
+I'm a Junior Front-End Developer/Software Engineer based in Sydney. I have a passion for building beautiful, intuitive websites and applications that provide a seamless user experience. I have experience with HTML, CSS, JavaScript, React, and Node.js, and I'm always eager to learn new technologies and expand my skillset.
 
 
 
