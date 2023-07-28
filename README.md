@@ -7,12 +7,10 @@ A Front-End Developer/Software Engineer situated in Sydney, proficient in crafti
 
 # Skills
 
-
-* HTML
-* CSS
+* React
+* Next JS
 * Tailwind
 * JavaScript
-* React
 * NodeJs
 * ExpressJs
 * MySQL
